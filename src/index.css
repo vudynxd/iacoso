@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  background-color: #eeebe5;
+  color: #262626;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Segoe UI Web (West European)', -apple-system, Roboto, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Excel/Figma matte flat scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #e5e2dc;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #c7c4bd;
+  border-radius: 0px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #aba8a2;
+}

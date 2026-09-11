@@ -1,0 +1,7 @@
+{
+  "name": "COTTA Neumáticos",
+  "description": "Ventas por mayor y menor. Catálogo de stock, presupuestos en cuotas y flyers para WhatsApp. Sucursales Santa Rosa L.P. y América Bs.As.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
